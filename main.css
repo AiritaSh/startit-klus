@@ -77,7 +77,7 @@ line-height: 34px;
 display: inline-flex;
 align-items: center;
 background:  #0084F8;
-border: 1px solid  #0084F8
+border: 1px solid  #0084F8;
 
 /* primary/white */
 
@@ -113,6 +113,7 @@ color: #FFFFFF;
   .poga3{
       position: absolute;
       bottom: 2vh;
+      
  right: 2vw;
     font-family: 'Open Sans';
     font-style: normal;
@@ -122,11 +123,14 @@ color: #FFFFFF;
     display: inline-flex;
     align-items: center;
     background: #FF8576;
-    border: 1px solid  #0084F8
+    border: 1px solid  #0084F8;
  
  
     
     /* primary/white */
     
     color: #FFFFFF;
+  }
+  .atstarpe{
+    margin-top: 10vh;
   }
